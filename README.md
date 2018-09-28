@@ -1,10 +1,11 @@
 ## Privacy policy
 
-DoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads partners collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
+PogeZone values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads partners collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
 
 If you don't agree with any term in this Privacy Policy, please do not use the service. By downloading, accessing and/or playing our games, or interacting with our websites or other Services, you agree to the collection and use of your information in accordance with this Privacy Policy.
 
 ### Information collection
+
 1. Information you provide us.
 According to the needs of different features, we may collect the information you provided to us. Such as the name or email address you submitted while you register an account, or the problem description you sent to us for customer support. Please make sure that you will not send us or disclose any sensitive information such as information related to racial or ethnic origin, political opinions, religious or other beliefs, health information, sexual orientation, criminal background or membership of past organizations, including trade union memberships.
 
@@ -44,7 +45,7 @@ We may use your Information for the following purposes:
 
 9. We disclose your information to our employees, contractors, affiliates, ("Service Providers") who provide certain services to us or on our behalf, such as operating and supporting the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf.
 
-10. It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for DoMobile to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+10. It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for PogeZone to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
 We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. 
 
@@ -64,10 +65,12 @@ Cookies are small text files that are stored by your browser on your desktop com
 We will respond to all requests within a reasonable timeframe.
 
 ## Information Security
-DoMobile is very concerned about safeguarding the confidentiality of your information. We employ administrative, physical and electronic measures designed to protect your Personal and Non-Personal Information from unauthorized access and use.
-## Children
-We understand the importance of taking extra precautions to protect the privacy and safety of children during using DoMobile products and services. We do not collect, use or disclose personal information from children. If you are under 18, you may use our website with accompany of your parents or guardians.
-## Privacy Questions
-If you have any questions or concerns about DoMobile's Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.  
+PogeZone is very concerned about safeguarding the confidentiality of your information. We employ administrative, physical and electronic measures designed to protect your Personal and Non-Personal Information from unauthorized access and use.
 
-DoMobile may update its Privacy Policy from time to time, which will not reduce your rights under this Privacy Policy. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you do not agree to any modifications to this Policy, you could immediately stop all use of all the Services. Your continued use of the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. 
+## Children
+We understand the importance of taking extra precautions to protect the privacy and safety of children during using PogeZone products and services. We do not collect, use or disclose personal information from children. If you are under 18, you may use our website with accompany of your parents or guardians.
+
+## Privacy Questions
+If you have any questions or concerns about PogeZone's Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.  
+
+PogeZone may update its Privacy Policy from time to time, which will not reduce your rights under this Privacy Policy. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. If you do not agree to any modifications to this Policy, you could immediately stop all use of all the Services. Your continued use of the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. 
